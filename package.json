@@ -1,6 +1,6 @@
 {
-  "name": "@xeokit/xeokit-bim-viewer",
-  "version": "2.5.1-beta-38",
+  "name": "@mateusz.milian/xeokit-bim-viewer",
+  "version": "2.7.0",
   "description": "BIM viewer built on xeokit",
   "main": "dist/xeokit-bim-viewer.min.es.js",
   "files": [
@@ -12,14 +12,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup --config rollup.config.js && rollup --config rollup.dev.config.js && copyfiles locales/messages.js ./dist/.",
-    "docs": "./node_modules/.bin/esdoc",
+    "docs": "esdoc",
     "serve": "http-server . -p 8080 ",
-    "publish": "npm publish --access public",
+    "publish-from-cmd": "npm publish --access public",
     "changelog": "auto-changelog --commit-limit false --package --template changelog-template.hbs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xeokit/xeokit-bim-viewer.git"
+    "url": "git+https://github.com/mmilian/xeokit-bim-viewer.git"
   },
   "auto-changelog": {
     "output": "CHANGELOG.md",

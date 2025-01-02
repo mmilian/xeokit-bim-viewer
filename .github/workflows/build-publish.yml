@@ -1,0 +1,62 @@
+
+name: Build and publish xeokit-bim-viewer
+
+on:
+  push:
+    branches:
+      - master     # Build on every push to main
+    tags:
+      - v*       # Publish to npm when pushing a tag that starts with "v"
+
+jobs:
+  # -------------------------------------
+  # 1. Build job (for pushes to main)
+  # -------------------------------------
+  build:
+    # Only run this job when *not* publishing a tag
+    if: startsWith(github.ref, 'refs/tags/') != true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+  # -------------------------------------
+  # 2. Release job (for pushes with tags)
+  # -------------------------------------
+  release:
+    # Only run when the ref is a tag
+    if: startsWith(github.ref, 'refs/tags/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: googleapis/release-please-action@v4
+        id: release
+        with:
+          release-type: node
+      # The logic below handles the npm publication:
+      - uses: actions/checkout@v4
+          # these if statements ensure that a publication only occurs when
+          # a new release is created:
+        if: ${{ steps.release.outputs.release_created }}
+      - uses: actions/setup-node@v4
+        with:
+            node-version: 20
+            registry-url: 'https://registry.npmjs.org'
+        if: ${{ steps.release.outputs.release_created }}
+      - run: npm ci
+        if: ${{ steps.release.outputs.release_created }}
+      - run: npm publish
+        env:
+            NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+        if: ${{ steps.release.outputs.release_created }}
