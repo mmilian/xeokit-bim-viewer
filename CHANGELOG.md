@@ -2,6 +2,21 @@
 
 # [v2.5.1-beta-37](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-7...v2.5.1-beta-37)
 
+## 1.0.0 (2025-01-02)
+
+
+### Features
+
+* add cicd build and publish ([67030d4](https://github.com/mmilian/xeokit-bim-viewer/commit/67030d4de8800ae825784b3c4c4e1ff4c9125adc))
+* More vibrant default Selection and Highlight materials ([cdf2cfd](https://github.com/mmilian/xeokit-bim-viewer/commit/cdf2cfd000236a7a78485ce203746e4172f43216))
+* Save and load object X-ray states in BCF ([8669dfe](https://github.com/mmilian/xeokit-bim-viewer/commit/8669dfed318f5271d2bc9f4f11953012402ed190))
+
+
+### Bug Fixes
+
+* auto-release ([e372337](https://github.com/mmilian/xeokit-bim-viewer/commit/e372337e2fef8fa9e0c3dade5e129b04c2ebd6cc))
+* build script repair, use of ampersands ([67e5a46](https://github.com/mmilian/xeokit-bim-viewer/commit/67e5a4630ca0fcc72971a2281ce432a07902d1c3))
+
 ### 9 September 2024
 
 -  [BREAKING] ContextMenu - Add separator as an independent li tag - [#196](https://github.com/xeokit/xeokit-bim-viewer/pull/196)
