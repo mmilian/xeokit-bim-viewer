@@ -3,6 +3,20 @@
 ## [2.7.0](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.0...v2.7.0) (2025-01-03)
 
 
+### Bug Fixes
+
+* release new version ([5537022](https://github.com/mmilian/xeokit-bim-viewer/commit/55370222a58c87b0ecb35ac2cf8b4b8d7ea2d655))
+* upgrade ver. ([85827cd](https://github.com/mmilian/xeokit-bim-viewer/commit/85827cd524f27932471859170105f572c8cc66cb))
+
+
+### Miscellaneous Chores
+
+* release 0.0.1 ([b59c6e9](https://github.com/mmilian/xeokit-bim-viewer/commit/b59c6e96f2c52e069ade4e3f6ccbc609d0d4bd8f))
+* release 0.0.1 ([6934f2f](https://github.com/mmilian/xeokit-bim-viewer/commit/6934f2f2018574b6f5b799d99f25bc2ab96c211d))
+
+## [2.7.0](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.0...v2.7.0) (2025-01-03)
+
+
 ### Miscellaneous Chores
 
 * release 0.0.1 ([b59c6e9](https://github.com/mmilian/xeokit-bim-viewer/commit/b59c6e96f2c52e069ade4e3f6ccbc609d0d4bd8f))
