@@ -1,5 +1,5 @@
 
-name: Build and publish xeokit-bim-viewer
+name: Build xeokit-bim-viewer
 
 on:
   push:
