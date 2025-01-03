@@ -1,14 +1,6 @@
 # xeokit-bim-viewer Changelog
 
-## [v2.6.2]
-
-### 2 January 2025
-
--  New version schema
-
-## [v2.5.1-beta-37](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-7...v2.5.1-beta-37)
-
-## 1.0.0 (2025-01-02)
+## 1.0.0 (2025-01-03)
 
 
 ### Features
@@ -22,6 +14,14 @@
 
 * auto-release ([e372337](https://github.com/mmilian/xeokit-bim-viewer/commit/e372337e2fef8fa9e0c3dade5e129b04c2ebd6cc))
 * build script repair, use of ampersands ([67e5a46](https://github.com/mmilian/xeokit-bim-viewer/commit/67e5a4630ca0fcc72971a2281ce432a07902d1c3))
+
+## [v2.6.2]
+
+### 2 January 2025
+
+-  New version schema
+
+## [v2.5.1-beta-37](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-7...v2.5.1-beta-37)
 
 ### 9 September 2024
 
