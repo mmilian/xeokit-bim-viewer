@@ -1,6 +1,5 @@
 
-name: Build xeokit-bim-viewer
-
+name: Build
 on:
   push:
     branches:
