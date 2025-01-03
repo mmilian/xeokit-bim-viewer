@@ -21,6 +21,8 @@
           id: release
           with:
             release-type: node
+            config-file: release-please-config.json
+            manifest-file: .release-please-manifest.json
         # The logic below handles the npm publication:
         - uses: actions/checkout@v4
             # these if statements ensure that a publication only occurs when
