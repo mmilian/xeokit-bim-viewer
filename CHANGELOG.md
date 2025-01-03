@@ -1,6 +1,12 @@
-## xeokit-bim-viewer Changelog
+# xeokit-bim-viewer Changelog
 
-# [v2.5.1-beta-37](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-7...v2.5.1-beta-37)
+## [v2.6.2]
+
+### 2 January 2025
+
+-  New version schema
+
+## [v2.5.1-beta-37](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-7...v2.5.1-beta-37)
 
 ### 9 September 2024
 
@@ -24,37 +30,37 @@
 -  Fix memory spike when loading - [#170](https://github.com/xeokit/xeokit-bim-viewer/pull/170)
 -  fix: build script repair, use of ampersands - [#167](https://github.com/xeokit/xeokit-bim-viewer/pull/167)
 
-# [v2.5.1-beta-37](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-35...v2.5.1-beta-37)
+## [v2.5.1-beta-37](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-35...v2.5.1-beta-37)
 
 ### 9 September 2024
 
 -  [BREAKING] ContextMenu - Add separator as an independent li tag - [#196](https://github.com/xeokit/xeokit-bim-viewer/pull/196)
 
-# [v2.5.1-beta-35](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-34...v2.5.1-beta-35)
+## [v2.5.1-beta-35](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-34...v2.5.1-beta-35)
 
 ### 7 August 2024
 
 -  Bump xeokit to 2.6.32 - [#195](https://github.com/xeokit/xeokit-bim-viewer/pull/195)
 
-# [v2.5.1-beta-33](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-32...v2.5.1-beta-33)
+## [v2.5.1-beta-33](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-32...v2.5.1-beta-33)
 
 ### 18 June 2024
 
 -  [FIX] Fix split JSON property sets - [#192](https://github.com/xeokit/xeokit-bim-viewer/pull/192)
 
-# [v2.5.1-beta-32](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-31...v2.5.1-beta-32)
+## [v2.5.1-beta-32](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-31...v2.5.1-beta-32)
 
 ### 15 May 2024
 
 -  Fix mouse pick misalignment - [#191](https://github.com/xeokit/xeokit-bim-viewer/pull/191)
 
-# [v2.5.1-beta-31](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-30...v2.5.1-beta-31)
+## [v2.5.1-beta-31](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-30...v2.5.1-beta-31)
 
 ### 8 May 2024
 
 -  Measurement fixes; camera panning with middle button - [#189](https://github.com/xeokit/xeokit-bim-viewer/pull/189)
 
-# [v2.5.1-beta-30](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-3...v2.5.1-beta-30)
+## [v2.5.1-beta-30](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-3...v2.5.1-beta-30)
 
 ### 22 April 2024
 
@@ -73,75 +79,75 @@
 -  Fix memory spike when loading - [#170](https://github.com/xeokit/xeokit-bim-viewer/pull/170)
 -  fix: build script repair, use of ampersands - [#167](https://github.com/xeokit/xeokit-bim-viewer/pull/167)
 
-# [v2.5.1-beta-28](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-26...v2.5.1-beta-28)
+## [v2.5.1-beta-28](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-26...v2.5.1-beta-28)
 
 ### 18 April 2024
 
 -  Don't allow user to slice SectionPlane Controls - [#184](https://github.com/xeokit/xeokit-bim-viewer/pull/184)
 -  Upgrade xeokit-sdk to add initial measurement touch handlers - [#183](https://github.com/xeokit/xeokit-bim-viewer/pull/183)
 
-# [v2.5.1-beta-26](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-25...v2.5.1-beta-26)
+## [v2.5.1-beta-26](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-25...v2.5.1-beta-26)
 
 ### 15 April 2024
 
 -  Fix enableMeasurements: false - [#182](https://github.com/xeokit/xeokit-bim-viewer/pull/182)
 
-# [v2.5.1-beta-25](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-24...v2.5.1-beta-25)
+## [v2.5.1-beta-25](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-24...v2.5.1-beta-25)
 
 ### 1 April 2024
 
 -  [FIX] Fix bug where SectionPlanes are clipping DistanceMeasurements too coarsely - [#180](https://github.com/xeokit/xeokit-bim-viewer/pull/180)
 
-# [v2.5.1-beta-24](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-23...v2.5.1-beta-24)
+## [v2.5.1-beta-24](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-23...v2.5.1-beta-24)
 
 ### 30 March 2024
 
 -  Section tool mouse click fixes - [#179](https://github.com/xeokit/xeokit-bim-viewer/pull/179)
 
-# [v2.5.1-beta-23](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-22...v2.5.1-beta-23)
+## [v2.5.1-beta-23](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-22...v2.5.1-beta-23)
 
 ### 28 March 2024
 
 -  xeokit-sdk fix: Add selection glowThrough support to DTX triangles renderer layer - [#178](https://github.com/xeokit/xeokit-bim-viewer/pull/178)
 
-# [v2.5.1-beta-22](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-21...v2.5.1-beta-22)
+## [v2.5.1-beta-22](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-21...v2.5.1-beta-22)
 
 ### 17 March 2024
 
 -  Fix measurement dot placement - [#174](https://github.com/xeokit/xeokit-bim-viewer/pull/174)
 -  Some fix about using example - [#173](https://github.com/xeokit/xeokit-bim-viewer/pull/173)
 
-# [v2.5.1-beta-21](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-20...v2.5.1-beta-21)
+## [v2.5.1-beta-21](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-20...v2.5.1-beta-21)
 
 ### 14 March 2024
 
 -  [FIX] No default metaobjects when loading XKTs and JSONs from manifest - [#172](https://github.com/xeokit/xeokit-bim-viewer/pull/172)
 
-# [v2.5.1-beta-20](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-19...v2.5.1-beta-20)
+## [v2.5.1-beta-20](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-19...v2.5.1-beta-20)
 
 ### 13 March 2024
 
 -  Bump xeokit-sdk to 2.6.0-beta-5 - [#171](https://github.com/xeokit/xeokit-bim-viewer/pull/171)
 
-# [v2.5.1-beta-19](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-18...v2.5.1-beta-19)
+## [v2.5.1-beta-19](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-18...v2.5.1-beta-19)
 
 ### 13 March 2024
 
 -  Fix memory spike when loading - [#170](https://github.com/xeokit/xeokit-bim-viewer/pull/170)
 
-# [v2.5.1-beta-13](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-12...v2.5.1-beta-13)
+## [v2.5.1-beta-13](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.5.1-beta-12...v2.5.1-beta-13)
 
 ### 25 February 2024
 
 -  fix: build script repair, use of ampersands - [#167](https://github.com/xeokit/xeokit-bim-viewer/pull/167)
 
-# [v2.4.18](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.4.12...v2.4.18)
+## [v2.4.18](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.4.12...v2.4.18)
 
 ### 24 November 2023
 
 -  FEATURE: More vibrant default Selection and Highlight materials - [#163](https://github.com/xeokit/xeokit-bim-viewer/pull/163)
 
-# [v2.4.9-beta2](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.4.9-alpha-9...v2.4.9-beta2)
+## [v2.4.9-beta2](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.4.9-alpha-9...v2.4.9-beta2)
 
 ### 29 October 2023
 
@@ -153,7 +159,7 @@
 -  Split xkt loading - [#151](https://github.com/xeokit/xeokit-bim-viewer/pull/151)
 -  Make marquee selection ignore invisible elements - [#147](https://github.com/xeokit/xeokit-bim-viewer/pull/147)
 
-# [v2.4.9-alpha-50](https://github.com/xeokit/xeokit-bim-viewer/compare/2.4.9-alpha-4...v2.4.9-alpha-50)
+## [v2.4.9-alpha-50](https://github.com/xeokit/xeokit-bim-viewer/compare/2.4.9-alpha-4...v2.4.9-alpha-50)
 
 ### 21 October 2023
 
@@ -165,7 +171,7 @@
 -  Split xkt loading - [#151](https://github.com/xeokit/xeokit-bim-viewer/pull/151)
 -  Make marquee selection ignore invisible elements - [#147](https://github.com/xeokit/xeokit-bim-viewer/pull/147)
 
-# [v2.4.9-alpha-35](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.4.9-alpha-22...v2.4.9-alpha-35)
+## [v2.4.9-alpha-35](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.4.9-alpha-22...v2.4.9-alpha-35)
 
 ### 13 September 2023
 
@@ -174,7 +180,7 @@
 -  Split xkt loading - documentation updates - [#152](https://github.com/xeokit/xeokit-bim-viewer/pull/152)
 -  Split xkt loading - [#151](https://github.com/xeokit/xeokit-bim-viewer/pull/151)
 
-# [v2.4.9-alpha-21](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.4.7...v2.4.9-alpha-21)
+## [v2.4.9-alpha-21](https://github.com/xeokit/xeokit-bim-viewer/compare/v2.4.7...v2.4.9-alpha-21)
 
 ### 9 August 2023
 
@@ -192,7 +198,7 @@
 -  Add russian locale - [#125](https://github.com/xeokit/xeokit-bim-viewer/pull/125)
 -  Extended rollup config to additionally generate a UMD bundle. - [#123](https://github.com/xeokit/xeokit-bim-viewer/pull/123)
 
-# [v2.4.7](https://github.com/xeokit/xeokit-bim-viewer/compare/2.2.0...v2.4.7)
+## [v2.4.7](https://github.com/xeokit/xeokit-bim-viewer/compare/2.2.0...v2.4.7)
 
 ### 16 August 2022
 
@@ -208,19 +214,19 @@
 -  Fixed a bug in Controller#destroy - [#89](https://github.com/xeokit/xeokit-bim-viewer/pull/89)
 -  Element property sets - [#77](https://github.com/xeokit/xeokit-bim-viewer/pull/77)
 
-# [2.0.0](https://github.com/xeokit/xeokit-bim-viewer/compare/1.9.57...2.0.0)
+## [2.0.0](https://github.com/xeokit/xeokit-bim-viewer/compare/1.9.57...2.0.0)
 
 ### 18 March 2021
 
 -  Add files via upload - [#42](https://github.com/xeokit/xeokit-bim-viewer/pull/42)
 
-# [1.9.6](https://github.com/xeokit/xeokit-bim-viewer/compare/1.9.5...1.9.6)
+## [1.9.6](https://github.com/xeokit/xeokit-bim-viewer/compare/1.9.5...1.9.6)
 
 ### 23 December 2020
 
 -  Add files via upload - [#42](https://github.com/xeokit/xeokit-bim-viewer/pull/42)
 
-# [1.9.4]()
+## [1.9.4]()
 
 ### 10 November 2020
 
