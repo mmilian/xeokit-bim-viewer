@@ -3,6 +3,31 @@
 ## [2.7.0](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.0...v2.7.0) (2025-01-03)
 
 
+### Features
+
+* add cicd build and publish ([67030d4](https://github.com/mmilian/xeokit-bim-viewer/commit/67030d4de8800ae825784b3c4c4e1ff4c9125adc))
+* More vibrant default Selection and Highlight materials ([cdf2cfd](https://github.com/mmilian/xeokit-bim-viewer/commit/cdf2cfd000236a7a78485ce203746e4172f43216))
+* Save and load object X-ray states in BCF ([8669dfe](https://github.com/mmilian/xeokit-bim-viewer/commit/8669dfed318f5271d2bc9f4f11953012402ed190))
+
+
+### Bug Fixes
+
+* auto-release ([e372337](https://github.com/mmilian/xeokit-bim-viewer/commit/e372337e2fef8fa9e0c3dade5e129b04c2ebd6cc))
+* build script repair, use of ampersands ([67e5a46](https://github.com/mmilian/xeokit-bim-viewer/commit/67e5a4630ca0fcc72971a2281ce432a07902d1c3))
+* Clean up readme! ([#3](https://github.com/mmilian/xeokit-bim-viewer/issues/3)) ([fec78e1](https://github.com/mmilian/xeokit-bim-viewer/commit/fec78e1b34b0eb6e985ef23d334033fd4e153aed))
+* readme ([ad78f82](https://github.com/mmilian/xeokit-bim-viewer/commit/ad78f82548b123eb63ec24afe2c1581be3f388a3))
+* release new version ([5537022](https://github.com/mmilian/xeokit-bim-viewer/commit/55370222a58c87b0ecb35ac2cf8b4b8d7ea2d655))
+* upgrade ver. ([85827cd](https://github.com/mmilian/xeokit-bim-viewer/commit/85827cd524f27932471859170105f572c8cc66cb))
+
+
+### Miscellaneous Chores
+
+* release 0.0.1 ([b59c6e9](https://github.com/mmilian/xeokit-bim-viewer/commit/b59c6e96f2c52e069ade4e3f6ccbc609d0d4bd8f))
+* release 0.0.1 ([6934f2f](https://github.com/mmilian/xeokit-bim-viewer/commit/6934f2f2018574b6f5b799d99f25bc2ab96c211d))
+
+## [2.7.0](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.0...v2.7.0) (2025-01-03)
+
+
 ### Bug Fixes
 
 * release new version ([5537022](https://github.com/mmilian/xeokit-bim-viewer/commit/55370222a58c87b0ecb35ac2cf8b4b8d7ea2d655))
