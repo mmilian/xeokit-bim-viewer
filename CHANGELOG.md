@@ -1,6 +1,6 @@
 # xeokit-bim-viewer Changelog
 
-## 1.0.0 (2025-01-03)
+## 2.6.99 (2025-01-03)
 
 
 ### Features
