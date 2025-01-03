@@ -1,6 +1,6 @@
 {
   "name": "@mateusz.milian/xeokit-bim-viewer",
-  "version": "1.0.0",
+  "version": "2.7.0",
   "description": "BIM viewer built on xeokit",
   "main": "dist/xeokit-bim-viewer.min.es.js",
   "files": [
