@@ -1,5 +1,12 @@
 # xeokit-bim-viewer Changelog
 
+## [2.7.1](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.0...v2.7.1) (2025-01-03)
+
+
+### Bug Fixes
+
+* just normal deploy ([3a5a78d](https://github.com/mmilian/xeokit-bim-viewer/commit/3a5a78d0319898b0537b75ffbe585f7148a8c26a))
+
 ## [2.7.0](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.0...v2.7.0) (2025-01-03)
 
 
