@@ -1,5 +1,12 @@
 # xeokit-bim-viewer Changelog
 
+## [1.0.1](https://github.com/mmilian/xeokit-bim-viewer/compare/v1.0.0...v1.0.1) (2025-01-03)
+
+
+### Bug Fixes
+
+* Clean up readme! ([#3](https://github.com/mmilian/xeokit-bim-viewer/issues/3)) ([fec78e1](https://github.com/mmilian/xeokit-bim-viewer/commit/fec78e1b34b0eb6e985ef23d334033fd4e153aed))
+
 ## 2.6.99 (2025-01-03)
 
 
