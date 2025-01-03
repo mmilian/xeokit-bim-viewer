@@ -1,5 +1,6 @@
 {
     "include-v-in-tag": true,
+    "pull-request-title-pattern": "chore(release): release \\d+\\.\\d+\\.\\d+",
     "packages": {
       "xeokit-bim-viewer": {
         "path": ".",
