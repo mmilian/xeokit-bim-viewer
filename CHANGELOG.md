@@ -1,5 +1,12 @@
 # xeokit-bim-viewer Changelog
 
+## [2.8.0](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.2...v2.8.0) (2025-01-07)
+
+
+### Features
+
+* remove unused dist files ([74b8a65](https://github.com/mmilian/xeokit-bim-viewer/commit/74b8a65485f0665ccf91c7288db286149916928e))
+
 ## [2.7.2](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.1...v2.7.2) (2025-01-03)
 
 
