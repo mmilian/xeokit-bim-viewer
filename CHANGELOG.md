@@ -1,5 +1,12 @@
 # xeokit-bim-viewer Changelog
 
+## [2.8.1](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.8.0...v2.8.1) (2025-01-07)
+
+
+### Bug Fixes
+
+* add dist to release ([a54dfd3](https://github.com/mmilian/xeokit-bim-viewer/commit/a54dfd3b202083c444437d3d14a48faf6d8c2b9d))
+
 ## [2.8.0](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.7.2...v2.8.0) (2025-01-07)
 
 
