@@ -1,5 +1,12 @@
 # xeokit-bim-viewer Changelog
 
+## [2.9.0](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.8.2...v2.9.0) (2025-01-13)
+
+
+### Features
+
+* new documentation ([4b83daa](https://github.com/mmilian/xeokit-bim-viewer/commit/4b83daa84c6d4929a31188db2e7f872be1369496))
+
 ## [2.8.2](https://github.com/mmilian/xeokit-bim-viewer/compare/v2.8.1...v2.8.2) (2025-01-07)
 
 
